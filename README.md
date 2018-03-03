@@ -1,2 +1,2 @@
 # meiji-chocolate
-personal blog
+
